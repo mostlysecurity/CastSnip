@@ -8,7 +8,8 @@
 Taking snips of podcasts and posting them online
 
 ## Use
-You are free to use this any way you like.  I tried to give credit to online resources I used, if I missed something let me know and I'll fix it.  If you feel so inclined, you can always [download the app from the App Store](https://itunes.apple.com/us/app/cast-snip/id1439722076?ls=1&mt=8) and do the little "tip jar" in-app purchase.  (It also unlocks a few additional settings...) If you're really feeling crazy, you can send some of those digital Bitcoin things here: 3AQkmakP1WgMfH33wgmW7UG7EWaXBfgwzi
+You are free to use this any way you like.  I tried to give credit to online resources I used, if I missed something let me know and I'll fix it.  If you feel so inclined, you can always [download the app from the App Store](https://itunes.apple.com/us/app/cast-snip/id1439722076?ls=1&mt=8) and do the little "tip jar" in-app purchase.  (It also unlocks a few additional settings...) If you're really feeling crazy, you can send some of those digital Bitcoin things at 3AQkmakP1WgMfH33wgmW7UG7EWaXBfgwzi
+or, alternatively, if you are into ETH, you can add to my dust pile at 0xe51cf9706B9Bf7cFEbB3e7Af0bd6fA302fD213f2 - I could go on I suppose, but that'll do for now...
 
 ## History
 I started this project back in the Fall of 2018 because there didn't seem
