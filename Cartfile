@@ -1,0 +1,10 @@
+#This parses the RSS Feed
+github "nmdias/FeedKit" ~> 8.1.0
+
+# This is the please wait overlay
+github "peterprokop/SwiftOverlays" ~> 5.0.1 
+
+# This is yet another waveform
+github "bastienFalcou/SoundWave" ~> 0.1.4 
+
+
