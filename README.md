@@ -5,7 +5,7 @@
 </p>
 
 # CastSnip
-Taking snips of podcasts and then posting them online
+Taking snips of podcasts and posting them online
 
 ## History
 I started this project back in the Fall of 2018 because there didn't seem
